@@ -1,2 +1,3 @@
 This is file c added in  to  branch a file
 added now new conent again  in brancha file c file
+added thrid line again in filec in brnach a file
