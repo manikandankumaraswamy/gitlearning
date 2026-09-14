@@ -4,5 +4,4 @@ added thrid line again in filec in brnach a file
 
 added fourth line changes
 added fifth line
-adding sixth line
-
+adding sixth line  merge fix
